@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MembersServer</id>
+    <version>1.0.0</version>
+    <authors>MembersServer</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.runtimeconfig.json" target="lib\net5.0\MembersServer.runtimeconfig.json" />
+    <file src="D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.dll" target="lib\net5.0\MembersServer.dll" />
+  </files>
+</package>

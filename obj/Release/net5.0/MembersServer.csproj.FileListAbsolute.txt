@@ -1,0 +1,16 @@
+D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.exe
+D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.deps.json
+D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.runtimeconfig.json
+D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.runtimeconfig.dev.json
+D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.dll
+D:\Programowanie\c#\MembersServer\bin\Release\net5.0\ref\MembersServer.dll
+D:\Programowanie\c#\MembersServer\bin\Release\net5.0\MembersServer.pdb
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.csprojAssemblyReference.cache
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.AssemblyInfoInputs.cache
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.AssemblyInfo.cs
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.csproj.CoreCompileInputs.cache
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.dll
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\ref\MembersServer.dll
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.pdb
+D:\Programowanie\c#\MembersServer\obj\Release\net5.0\MembersServer.genruntimeconfig.cache
